@@ -1,0 +1,4 @@
+*.o
+*/bin/
+hello-01/src/main
+debug-02/src/main
